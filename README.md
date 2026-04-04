@@ -21,6 +21,7 @@ Você também pode me encontrar por aí envolvido com:
 ## 🌐 Me encontre em
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/kuresto.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo&logoColor=white&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/niltonfrederico)
+[![cumbuca.dev](https://img.shields.io/badge/cumbuca.dev-663399?style=for-the-badge&logoColor=white)](https://cumbuca.dev)
 
 ## 💻 Tech Stack
 
