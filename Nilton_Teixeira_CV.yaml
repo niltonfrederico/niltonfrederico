@@ -1,0 +1,118 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Nilton Teixeira
+  headline: Staff Python Developer
+  location: Ribeirão Preto/SP, Brazil
+  email: niltonfrederico@pm.me
+  phone: "+55-16-98178-2417"
+  social_networks:
+    - network: LinkedIn
+      username: niltonfrederico
+    - network: GitHub
+      username: niltonfrederico
+  sections:
+    about me:
+      - Having worked on projects ranging from basic systems to cutting-edge data-intensive
+        processing, I have fifteen years of experience in software development. I'm an active
+        participant in the Brazilian Python Community, giving seminars on everything from
+        beginning to expert subjects, and I'm passionate about fostering relationships with
+        developers.
+    experience:
+      - company: "[Company Name]"
+        position: Specialist Python Developer (Staff Backend)
+        start_date: 2021-06
+        end_date: present
+        location: Remote, Brazil
+        highlights:
+          - Lead software architecture projects and mentor team members within a high-volume
+            data intake team.
+          - Develop event-driven systems that underpin analytics solutions, capable of processing
+            millions of goods daily.
+          - Create operating system-neutral software for data management and conduct code reviews.
+          - Assist in project planning for other teams and enhance company policies.
+          - Contribute to open-source projects such as **django-stomp** and
+            **django-import-export-stomp**.
+      - company: "[Company Name]"
+        position: Senior Python Developer
+        start_date: 2019-02
+        end_date: 2025-05
+        location: Ribeirão Preto/SP, Brazil
+        highlights:
+          - Progressed from mid-level to lead developer using AWS serverless technologies,
+            crafting cost-effective, HIPAA-compliant health systems.
+          - Led development of scalable serverless architectures using **AWS Lambda**.
+          - Created secure health applications with Python frameworks like **FastAPI** and
+            **Django**.
+          - Achieved significant cost reductions through architectural improvements while
+            maintaining high system performance.
+          - Enhanced system reliability and deployment speed through AWS services.
+      - company: Various Companies
+        position: Python / PHP / C Developer
+        start_date: 2010-01
+        end_date: 2018-12
+        location: Brazil
+        highlights:
+          - Specialized in creating scalable, reliable backend systems across multiple companies
+            over 9 years.
+          - Proficient in Python alongside extensive experience in database optimization with
+            **PostgreSQL**.
+          - Enabled many businesses to enhance application scalability and performance.
+    education:
+      - institution: XP Educação
+        area: Software Solutions Architecture
+        degree: Post Graduate Specialization
+        start_date: 2024-03
+        end_date: 2025-03
+      - institution: XP Educação
+        area: Software Architecture
+        degree: Post Graduate Specialization
+        start_date: 2024-03
+        end_date: 2025-03
+      - institution: Unifafibe
+        area: Systems Development and Analysis
+        degree: Graduate
+        start_date: 2012-01
+        end_date: 2014-12
+        location: Batatais/SP, Brazil
+        highlights:
+          - Cyber security focus
+    skills:
+      - label: Languages & Frameworks
+        details: Python, Django, DjangoREST, FastAPI, PHP, C
+      - label: Data & Search
+        details: PostgreSQL, Elasticsearch
+      - label: Cloud & Infrastructure
+        details: AWS, AWS Lambda, Kubernetes
+      - label: Practices
+        details: Software Architecture, Event-Driven Systems, DevRel, Code Review
+    languages:
+      - bullet: "**Brazilian Portuguese** – Native / Bilingual"
+      - bullet: "**English** – Full Professional"
+      - bullet: "**Spanish** – Professional Working"
+    soft skills:
+      - bullet: Public Speaking
+      - bullet: Mentorship
+      - bullet: Community Building
+      - bullet: Professional Empathy
+    interests:
+      - bullet: Gaming
+      - bullet: Music
+      - bullet: Book-nerd
+      - bullet: Coffee Brewing
+
+design:
+  theme: nilton
+
+locale:
+  language: english
+
+settings:
+  current_date: today
+  render_command:
+    output_folder: rendercv_output
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  pdf_title: Nilton Teixeira - CV
